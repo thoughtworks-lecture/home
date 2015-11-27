@@ -15,7 +15,7 @@ Name | Role | Github | Site
 曾超伟|Trainee|https://github.com/slizeng|
 陈之豪|Trainee|Unknown|
 成萨萨|Trainee|Unknown|
-高诗意|Trainee|https://github.com/cqupt-gsy|
+高诗意|Trainee|https://github.com/cqupt-gsy|http://cqupt-gsy.github.io/
 李灵芳|Trainee|Unknown|
 李雪莹|Trainee|https://github.com/lixueying|
 廖国龙|Trainee|https://github.com/Dragon-L|
