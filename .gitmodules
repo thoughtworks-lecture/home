@@ -13,3 +13,27 @@
 [submodule "repositories/collectionsOps/LuYangjie"]
 	path = repositories/collectionsOps/LuYangjie
 	url = https://github.com/JellyLu/homework-one-collections.git
+[submodule "repositories/guessNumberGame/YuZejiang"]
+	path = repositories/guessNumberGame/YuZejiang
+	url = https://github.com/trotyl/guess-number-java
+[submodule "repositories/guessNumberGame/WenYang"]
+	path = repositories/guessNumberGame/WenYang
+	url = https://github.com/uazw/tw-guess-game
+[submodule "repositories/guessNumberGame/SuXin"]
+	path = repositories/guessNumberGame/SuXin
+	url = https://github.com/xloypaypa/TW
+[submodule "repositories/guessNumberGame/LuYangjie"]
+	path = repositories/guessNumberGame/LuYangjie
+	url = https://github.com/JellyLu/TW
+[submodule "repositories/guessNumberGame/LiaoGuolong"]
+	path = repositories/guessNumberGame/LiaoGuolong
+	url = https://github.com/Dragon-L/homework-2
+[submodule "repositories/guessNumberGame/LiXueying"]
+	path = repositories/guessNumberGame/LiXueying
+	url = https://github.com/lixueying/tdd-workshop-guess
+[submodule "repositories/guessNumberGame/GaoShiyi"]
+	path = repositories/guessNumberGame/GaoShiyi
+	url = https://github.com/cqupt-gsy/homework
+[submodule "repositories/guessNumberGame/ZengChaowei"]
+	path = repositories/guessNumberGame/ZengChaowei
+	url = https://github.com/slizeng/homework_1
