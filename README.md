@@ -7,12 +7,13 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 Name | Role | Github | Site
 :---:|:----:|:-------|:----
 鄢  倩|Owner|https://github.com/qianyan|http://yanqian.me/
-陈文杰|Coach|Unknown|
+陈文杰|Coach|https://github.com/Habens|http://habens.github.io/
 黄  艳|Coach|Unknown|
 林从羽|Coach|https://github.com/linesh-simplicity|
 林  帆|Coach|Unknown|
 刘  清|Coach|https://github.com/kenpusney|http://blog.kimleo.net/
 吕  靖|Coach|https://github.com/JimmyLv|http://blog.jimmylv.info/
+屠  标|Coach|https://github.com/tuberrabbit|
 曾超伟|Trainee|https://github.com/slizeng|
 陈之豪|Trainee|Unknown|
 成萨萨|Trainee|Unknown|
