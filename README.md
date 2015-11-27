@@ -20,6 +20,7 @@ Name | Role | Github | Site
 李灵芳|Trainee|Unknown|
 李雪莹|Trainee|https://github.com/lixueying|
 廖国龙|Trainee|https://github.com/Dragon-L|
+刘晓玮|Trainee|Unknown|
 陆杨洁|Trainee|https://github.com/JellyLu|
 潘晓佩|Trainee|Unknown|
 苏  鑫|Trainee|https://github.com/xloypaypa|
@@ -47,6 +48,7 @@ Name|Collection|TDD First Step
 李灵芳|Unknown|Unknown
 李雪莹|[Click Me](https://github.com/lixueying/homework)|[Click Me](https://github.com/lixueying/tdd-workshop-guess)
 廖国龙|[Click Me](https://github.com/Dragon-L/homework)|[Click Me](https://github.com/Dragon-L/homework-2)
+刘晓玮|Unknown|Unknown
 陆杨洁|[Click Me](https://github.com/JellyLu/homework-one-collections)|[Click Me](https://github.com/JellyLu/TW)
 潘晓佩|Unknown|Unknown
 苏  鑫|Unknown|[Click Me](https://github.com/xloypaypa/TW/tree/master/tdd)
