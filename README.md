@@ -40,7 +40,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
 ## Repositories
 
-| Name | Collection | TDD First Step | TDD + OO |
+| Name | Prepare | TDD First Step | TDD + OO |
 |:----:|:----------:|:--------------:|:--------:|
 | 曾超伟 |  | [Click Me][zcw-repo-1] |
 | 陈之豪 |  |  |
