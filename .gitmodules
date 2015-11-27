@@ -1,0 +1,15 @@
+[submodule "repositories/collectionsOps/YuZejiang"]
+	path = repositories/collectionsOps/YuZejiang
+	url = https://github.com/trotyl/collection-homework
+[submodule "repositories/collectionsOps/GaoShiyi"]
+	path = repositories/collectionsOps/GaoShiyi
+	url = https://github.com/cqupt-gsy/homework.git
+[submodule "repositories/collectionsOps/LiXueying"]
+	path = repositories/collectionsOps/LiXueying
+	url = https://github.com/lixueying/homework.git
+[submodule "repositories/collectionsOps/LiaoGuolong"]
+	path = repositories/collectionsOps/LiaoGuolong
+	url = https://github.com/Dragon-L/homework.git
+[submodule "repositories/collectionsOps/LuYangjie"]
+	path = repositories/collectionsOps/LuYangjie
+	url = https://github.com/JellyLu/homework-one-collections.git
