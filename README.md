@@ -4,7 +4,7 @@ The entry of people and repositories in ThoughtWorks Lecture.
 ## People
 
 Name | Role | Github
------|------|-------
+:---:|:----:|:-------
 鄢  倩|Owner|https://github.com/qianyan
 陈文杰|Coach|Unknown
 黄  艳|Coach|Unknown
@@ -38,7 +38,7 @@ Name | Role | Github
 ## Repositories
 
 Name|Collection|TDD First Step
-----|----------|--------------
+:--:|:--------:|:------------:
 曾超伟|Unknown|[Click Me](https://github.com/slizeng/homework_1)
 陈之豪|Unknown|Unknown
 成萨萨|Unknown|Unknown
