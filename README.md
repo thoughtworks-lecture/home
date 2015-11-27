@@ -1,5 +1,6 @@
-# thoughtworks-lecture
-The entry of people and repositories in ThoughtWorks Lecture.
+# ThoughtWorks Lecture
+
+The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
 ## People
 
