@@ -21,7 +21,7 @@ Name | Role | Github
 廖国龙|Trainee|https://github.com/Dragon-L
 陆杨洁|Trainee|https://github.com/JellyLu
 潘晓佩|Trainee|Unknown
-苏  鑫|Trainee|Unknown
+苏  鑫|Trainee|https://github.com/xloypaypa
 王  冰|Trainee|Unknown
 王  礼|Trainee|Unknown
 王  培|Trainee|Unknown
@@ -48,7 +48,7 @@ Name|Collection|TDD First Step
 廖国龙|[Click Me](https://github.com/Dragon-L/homework)|[Click Me](https://github.com/Dragon-L/homework-2)
 陆杨洁|[Click Me](https://github.com/JellyLu/homework-one-collections)|[Click Me](https://github.com/JellyLu/TW)
 潘晓佩|Unknown|Unknown
-苏  鑫|Unknown|Unknown
+苏  鑫|Unknown|[Click Me](https://github.com/xloypaypa/TW/tree/master/tdd)
 王  冰|Unknown|Unknown
 王  礼|Unknown|Unknown
 王  培|Unknown|Unknown
