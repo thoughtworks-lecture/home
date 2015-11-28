@@ -55,3 +55,6 @@
 [submodule "repositories/guessNumberGame/WuZhiping"]
 	path = repositories/guessNumberGame/WuZhiping
 	url = https://github.com/stayrascal/tdd-workshop-guess
+[submodule "repositories/arena/ChenWenjie"]
+	path = repositories/arena/ChenWenjie
+	url = https://github.com/Habens/arena
