@@ -58,3 +58,6 @@
 [submodule "repositories/arena/ChenWenjie"]
 	path = repositories/arena/ChenWenjie
 	url = https://github.com/Habens/arena
+[submodule "repositories/arena/TuBiao"]
+	path = repositories/arena/TuBiao
+	url = https://github.com/tuberrabbit/boxing-games
