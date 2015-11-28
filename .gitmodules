@@ -43,3 +43,6 @@
 [submodule "repositories/guessNumberGame/ChenZhihao"]
 	path = repositories/guessNumberGame/ChenZhihao
 	url = https://github.com/MMMr-chen/TW
+[submodule "repositories/guessNumberGame/ChengSasa"]
+	path = repositories/guessNumberGame/ChengSasa
+	url = https://github.com/Sasa33/TW-guess-number-game-2
