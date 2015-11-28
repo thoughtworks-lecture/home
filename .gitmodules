@@ -37,3 +37,6 @@
 [submodule "repositories/collectionsOps/YanQian"]
 	path = repositories/collectionsOps/YanQian
 	url = https://github.com/qianyan/homework
+[submodule "repositories/guessNumberGame/LiuQing"]
+	path = repositories/guessNumberGame/LiuQing
+	url = https://github.com/kenpusney/tdd-workshop-guess
