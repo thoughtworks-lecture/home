@@ -16,7 +16,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 屠  标 | Coach | [Click Me][tb-github] |  |
 | 曾超伟 | Trainee | [Click Me][zcw-github] |  |
 | 陈之豪 | Trainee |  |  |
-| 成萨萨 | Trainee |  |  |
+| 成萨萨 | Trainee | [Click Me][css-github] |  |
 | 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] |
 | 李灵芳 | Trainee |  |  |
 | 李雪莹 | Trainee | [Click Me][lxy-github] |
@@ -44,7 +44,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 |:----:|:----------:|:--------------:|:--------:|
 | 曾超伟 |  | [Click Me][zcw-repo-1] |
 | 陈之豪 |  |  |
-| 成萨萨 |  |  |
+| 成萨萨 |  | [Click Me][css-repo-1] |
 | 高诗意 | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] |
 | 李灵芳 |  |  |
 | 李雪莹 | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] |
@@ -103,10 +103,10 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [czh-repo-1]: about:blank
 [czh-repo-2]: about:blank
 
-[css-github]: about:blank
+[css-github]: https://github.com/Sasa33
 [css-site]: about:blank
 [css-repo-0]: about:blank
-[css-repo-1]: about:blank
+[css-repo-1]: https://github.com/Sasa33/TW-guess-number-game-2
 [css-repo-2]: about:blank
 
 [gsy-github]: https://github.com/cqupt-gsy
