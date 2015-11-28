@@ -49,3 +49,6 @@
 [submodule "repositories/guessNumberGame/LiLingfang"]
 	path = repositories/guessNumberGame/LiLingfang
 	url = https://github.com/lingHender/ThoughtWorkLearning
+[submodule "repositories/guessNumberGame/WangPei"]
+	path = repositories/guessNumberGame/WangPei
+	url = https://github.com/Json-w/tdd-homeWork-guessGame
