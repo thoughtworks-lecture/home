@@ -19,10 +19,10 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |
 | 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] |
 | 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] |
-| 李雪莹 | Trainee | [Click Me][lxy-github] | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] |
-| 廖国龙 | Trainee | [Click Me][lgl-github] | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] |
+| 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] |
+| 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] |
 | 刘晓玮 | Trainee |  |  |  |  |
-| 陆杨洁 | Trainee | [Click Me][lyj-github] | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] |
+| 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] |
 | 潘晓佩 | Trainee |  |  |  |  |
 | 苏  鑫 | Trainee | [Click Me][sx-github] |  | [Click Me][sx-repo-1] |
 | 王  冰 | Trainee |  |  |  |  |
