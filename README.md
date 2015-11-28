@@ -17,7 +17,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] |
 | 陈之豪 | Trainee | [Click Me][czh-github] |  |  | [Click Me][czh-repo-1] |
 | 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |
-| 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] |
+| 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] | [Click Me][gsy-repo-2] |
 | 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] |
 | 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] |
 | 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] |
@@ -90,7 +90,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [gsy-site]: http://cqupt-gsy.github.io/
 [gsy-repo-0]: https://github.com/cqupt-gsy/homework
 [gsy-repo-1]: https://github.com/cqupt-gsy/homework
-[gsy-repo-2]: about:blank
+[gsy-repo-2]: https://github.com/cqupt-gsy/homework
 
 [llf-github]: https://github.com/lingHender
 [llf-site]: about:blank
