@@ -22,9 +22,6 @@
 [submodule "repositories/guessNumberGame/SuXin"]
 	path = repositories/guessNumberGame/SuXin
 	url = https://github.com/xloypaypa/TW
-[submodule "repositories/guessNumberGame/LuYangjie"]
-	path = repositories/guessNumberGame/LuYangjie
-	url = https://github.com/JellyLu/TW
 [submodule "repositories/guessNumberGame/LiaoGuolong"]
 	path = repositories/guessNumberGame/LiaoGuolong
 	url = https://github.com/Dragon-L/homework-2
