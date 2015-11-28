@@ -6,14 +6,14 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
 | Name | Role | Github | Site | Prepare | TDD First Step | TDD + OO |
 |:----:|:----:|:------:|:----:|:----------:|:--------------:|:--------:|
-| 鄢  倩 | Owner | [Click Me][yq-github] | [Click Me][yq-site] |
-| 陈文杰 | Coach | [Click Me][cwj-github] | [Click Me][cwj-site] |
-| 黄  艳 | Coach |  |
-| 林从羽 | Coach | [Click Me][lcy-github] |  |
-| 林  帆 | Coach |  |
-| 刘  清 | Coach | [Click Me][lq-github] | [Click Me][lq-site] |
-| 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |
-| 屠  标 | Coach | [Click Me][tb-github] |  |
+| 鄢  倩 | Owner | [Click Me][yq-github] | [Click Me][yq-site] | [Click Me][yq-repo-0] |  |  |
+| 陈文杰 | Coach | [Click Me][cwj-github] | [Click Me][cwj-site] |  |  | [Click Me][cwj-repo-2] |
+| 黄  艳 | Coach |  |  |  |  |
+| 林从羽 | Coach | [Click Me][lcy-github] |  |  |  |  |
+| 林  帆 | Coach |  |  |  |  |
+| 刘  清 | Coach | [Click Me][lq-github] | [Click Me][lq-site] |  | [Click Me][lq-repo-1] |  |
+| 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |  |  |  |
+| 屠  标 | Coach | [Click Me][tb-github] |  |  |  | [Click Me][tb-repo-2] |
 | 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] |
 | 陈之豪 | Trainee | [Click Me][czh-github] |  |  | [Click Me][czh-repo-1] |
 | 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |
@@ -40,10 +40,12 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
 [yq-github]: https://github.com/qianyan
 [yq-site]: http://yanqian.me/
+[yq-repo-0]: https://github.com/qianyan/homework
 
 
 [cwj-github]: https://github.com/Habens
 [cwj-site]: http://habens.github.io/
+[cwj-repo-2]: https://github.com/Habens/arena
 
 [hy-github]: about:blank
 [hy-site]: about:blank
@@ -56,12 +58,14 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
 [lq-github]: https://github.com/kenpusney
 [lq-site]: http://blog.kimleo.net/
+[lq-repo-1]: https://github.com/kenpusney/tdd-workshop-guess
 
 [lj-github]: https://github.com/JimmyLv
 [lj-site]: http://blog.jimmylv.info/
 
 [tb-github]: https://github.com/tuberrabbit
 [tb-site]: about:blank
+[tb-repo-2]: https://github.com/tuberrabbit/boxing-games
 
 
 [zcw-github]: https://github.com/slizeng
