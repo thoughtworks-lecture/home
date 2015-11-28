@@ -40,3 +40,6 @@
 [submodule "repositories/guessNumberGame/LiuQing"]
 	path = repositories/guessNumberGame/LiuQing
 	url = https://github.com/kenpusney/tdd-workshop-guess
+[submodule "repositories/guessNumberGame/ChenZhihao"]
+	path = repositories/guessNumberGame/ChenZhihao
+	url = https://github.com/MMMr-chen/TW
