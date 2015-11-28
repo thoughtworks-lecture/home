@@ -24,11 +24,11 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 刘晓玮 | Trainee |  |  |  |  |
 | 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] |
 | 潘晓佩 | Trainee |  |  |  |  |
-| 苏  鑫 | Trainee | [Click Me][sx-github] |  | [Click Me][sx-repo-1] |
+| 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] |
 | 王  冰 | Trainee |  |  |  |  |
 | 王  礼 | Trainee |  |  |  |  |
-| 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] | [Click Me][wp-repo-1] |
-| 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] | [Click Me][wy-repo-1] |
+| 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] |
+| 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] |
 | 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] |
 | 肖  齐 | Trainee |  |  |  |  |
 | 闫琪龙 | Trainee |  |  |  |  |
