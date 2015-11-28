@@ -29,7 +29,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 王  礼 | Trainee |  |  |
 | 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |
 | 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |
-| 吴志平 | Trainee |  |  |
+| 吴志平 | Trainee | [Click Me][wzp-github] |  |
 | 肖  齐 | Trainee |  |  |
 | 闫琪龙 | Trainee |  |  |
 | 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] |
@@ -57,7 +57,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 王  礼 |  |  |
 | 王  培 |  | [Click Me][wp-repo-1] |
 | 文  杨 |  | [Click Me][wy-repo-1] |
-| 吴志平 |  |  |
+| 吴志平 |  | [Click Me][wzp-repo-1] |
 | 肖  齐 |  |  |
 | 闫琪龙 |  |  |
 | 余泽江 | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] |
@@ -181,10 +181,10 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [wy-repo-1]: https://github.com/uazw/tw-guess-game
 [wy-repo-2]: about:blank
 
-[wzp-github]: about:blank
+[wzp-github]: https://github.com/stayrascal
 [wzp-site]: about:blank
 [wzp-repo-0]: about:blank
-[wzp-repo-1]: about:blank
+[wzp-repo-1]: https://github.com/stayrascal/tdd-workshop-guess
 [wzp-repo-2]: about:blank
 
 [xq-github]: about:blank
