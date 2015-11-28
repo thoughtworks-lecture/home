@@ -2,10 +2,10 @@
 
 The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
-## People
+## Entries
 
-| Name | Role | Github | Site |
-|:----:|:----:|:------:|:----:|
+| Name | Role | Github | Site | Prepare | TDD First Step | TDD + OO |
+|:----:|:----:|:------:|:----:|:----------:|:--------------:|:--------:|
 | 鄢  倩 | Owner | [Click Me][yq-github] | [Click Me][yq-site] |
 | 陈文杰 | Coach | [Click Me][cwj-github] | [Click Me][cwj-site] |
 | 黄  艳 | Coach |  |
@@ -14,54 +14,27 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 刘  清 | Coach | [Click Me][lq-github] | [Click Me][lq-site] |
 | 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |
 | 屠  标 | Coach | [Click Me][tb-github] |  |
-| 曾超伟 | Trainee | [Click Me][zcw-github] |  |
-| 陈之豪 | Trainee | [Click Me][czh-github] |  |
-| 成萨萨 | Trainee | [Click Me][css-github] |  |
-| 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] |
-| 李灵芳 | Trainee | [Click Me][llf-github] |  |
-| 李雪莹 | Trainee | [Click Me][lxy-github] |
-| 廖国龙 | Trainee | [Click Me][lgl-github] |
-| 刘晓玮 | Trainee |  |  |
-| 陆杨洁 | Trainee | [Click Me][lyj-github] |
-| 潘晓佩 | Trainee |  |  |
-| 苏  鑫 | Trainee | [Click Me][sx-github] |
-| 王  冰 | Trainee |  |  |
-| 王  礼 | Trainee |  |  |
-| 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |
-| 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |
-| 吴志平 | Trainee | [Click Me][wzp-github] |  |
-| 肖  齐 | Trainee |  |  |
-| 闫琪龙 | Trainee |  |  |
-| 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] |
-| 张兰兰 | Trainee |  |  |
+| 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] |
+| 陈之豪 | Trainee | [Click Me][czh-github] |  |  | [Click Me][czh-repo-1] |
+| 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |
+| 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] |
+| 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] |
+| 李雪莹 | Trainee | [Click Me][lxy-github] | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] |
+| 廖国龙 | Trainee | [Click Me][lgl-github] | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] |
+| 刘晓玮 | Trainee |  |  |  |  |
+| 陆杨洁 | Trainee | [Click Me][lyj-github] | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] |
+| 潘晓佩 | Trainee |  |  |  |  |
+| 苏  鑫 | Trainee | [Click Me][sx-github] |  | [Click Me][sx-repo-1] |
+| 王  冰 | Trainee |  |  |  |  |
+| 王  礼 | Trainee |  |  |  |  |
+| 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] | [Click Me][wp-repo-1] |
+| 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] | [Click Me][wy-repo-1] |
+| 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] |
+| 肖  齐 | Trainee |  |  |  |  |
+| 闫琪龙 | Trainee |  |  |  |  |
+| 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] |
+| 张兰兰 | Trainee |  |  |  |  |
 
-
----
-
-## Repositories
-
-| Name | Prepare | TDD First Step | TDD + OO |
-|:----:|:----------:|:--------------:|:--------:|
-| 曾超伟 |  | [Click Me][zcw-repo-1] |
-| 陈之豪 |  | [Click Me][czh-repo-1] |
-| 成萨萨 |  | [Click Me][css-repo-1] |
-| 高诗意 | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] |
-| 李灵芳 |  | [Click Me][llf-repo-1] |
-| 李雪莹 | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] |
-| 廖国龙 | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] |
-| 刘晓玮 |  |  |
-| 陆杨洁 | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] |
-| 潘晓佩 |  |  |
-| 苏  鑫 |  | [Click Me][sx-repo-1] |
-| 王  冰 |  |  |
-| 王  礼 |  |  |
-| 王  培 |  | [Click Me][wp-repo-1] |
-| 文  杨 |  | [Click Me][wy-repo-1] |
-| 吴志平 |  | [Click Me][wzp-repo-1] |
-| 肖  齐 |  |  |
-| 闫琪龙 |  |  |
-| 余泽江 | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] |
-| 张兰兰 |  |  |
 
 
 
