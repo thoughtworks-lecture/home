@@ -27,7 +27,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 苏  鑫 | Trainee | [Click Me][sx-github] |
 | 王  冰 | Trainee |  |  |
 | 王  礼 | Trainee |  |  |
-| 王  培 | Trainee |  |  |
+| 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |
 | 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |
 | 吴志平 | Trainee |  |  |
 | 肖  齐 | Trainee |  |  |
@@ -55,7 +55,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 苏  鑫 |  | [Click Me][sx-repo-1] |
 | 王  冰 |  |  |
 | 王  礼 |  |  |
-| 王  培 |  |  |
+| 王  培 |  | [Click Me][wp-repo-1] |
 | 文  杨 |  | [Click Me][wy-repo-1] |
 | 吴志平 |  |  |
 | 肖  齐 |  |  |
@@ -169,10 +169,10 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [wl-repo-1]: about:blank
 [wl-repo-2]: about:blank
 
-[wp-github]: about:blank
-[wp-site]: about:blank
+[wp-github]: https://github.com/Json-w
+[wp-site]: http://blog.jsonwang.top/
 [wp-repo-0]: about:blank
-[wp-repo-1]: about:blank
+[wp-repo-1]: https://github.com/Json-w/tdd-homeWork-guessGame
 [wp-repo-2]: about:blank
 
 [wy-github]: https://github.com/uazw
