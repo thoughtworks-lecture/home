@@ -34,3 +34,6 @@
 [submodule "repositories/guessNumberGame/ZengChaowei"]
 	path = repositories/guessNumberGame/ZengChaowei
 	url = https://github.com/slizeng/homework_1
+[submodule "repositories/collectionsOps/YanQian"]
+	path = repositories/collectionsOps/YanQian
+	url = https://github.com/qianyan/homework
