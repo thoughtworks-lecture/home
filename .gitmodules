@@ -61,3 +61,6 @@
 [submodule "repositories/arena/TuBiao"]
 	path = repositories/arena/TuBiao
 	url = https://github.com/tuberrabbit/boxing-games
+[submodule "repositories/arena/GaoShiyi"]
+	path = repositories/arena/GaoShiyi
+	url = https://github.com/cqupt-gsy/homework
