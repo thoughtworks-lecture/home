@@ -46,3 +46,6 @@
 [submodule "repositories/guessNumberGame/ChengSasa"]
 	path = repositories/guessNumberGame/ChengSasa
 	url = https://github.com/Sasa33/TW-guess-number-game-2
+[submodule "repositories/guessNumberGame/LiLingfang"]
+	path = repositories/guessNumberGame/LiLingfang
+	url = https://github.com/lingHender/ThoughtWorkLearning
