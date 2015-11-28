@@ -15,7 +15,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |
 | 屠  标 | Coach | [Click Me][tb-github] |  |
 | 曾超伟 | Trainee | [Click Me][zcw-github] |  |
-| 陈之豪 | Trainee |  |  |
+| 陈之豪 | Trainee | [Click Me][czh-github] |  |
 | 成萨萨 | Trainee | [Click Me][css-github] |  |
 | 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] |
 | 李灵芳 | Trainee |  |  |
@@ -43,7 +43,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | Name | Prepare | TDD First Step | TDD + OO |
 |:----:|:----------:|:--------------:|:--------:|
 | 曾超伟 |  | [Click Me][zcw-repo-1] |
-| 陈之豪 |  |  |
+| 陈之豪 |  | [Click Me][czh-repo-1] |
 | 成萨萨 |  | [Click Me][css-repo-1] |
 | 高诗意 | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] |
 | 李灵芳 |  |  |
@@ -97,10 +97,10 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [zcw-repo-1]: https://github.com/slizeng/homework_1
 [zcw-repo-2]: about:blank
 
-[czh-github]: about:blank
+[czh-github]: https://github.com/MMMr-chen
 [czh-site]: about:blank
 [czh-repo-0]: about:blank
-[czh-repo-1]: about:blank
+[czh-repo-1]: https://github.com/MMMr-chen/TW
 [czh-repo-2]: about:blank
 
 [css-github]: https://github.com/Sasa33
