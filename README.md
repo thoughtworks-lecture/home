@@ -24,7 +24,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 刘晓玮 | Trainee |  |  |  |  |
 | 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] |
 | 潘晓佩 | Trainee |  |  |  |  |
-| 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] |
+| 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] | [Click Me][sx-repo-2] |
 | 王  冰 | Trainee |  |  |  |  |
 | 王  礼 | Trainee |  |  |  |  |
 | 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] |
@@ -132,7 +132,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [sx-site]: about:blank
 [sx-repo-0]: about:blank
 [sx-repo-1]: https://github.com/xloypaypa/TW
-[sx-repo-2]: about:blank
+[sx-repo-2]: https://github.com/xloypaypa/TW
 
 [wb-github]: about:blank
 [wb-site]: about:blank
