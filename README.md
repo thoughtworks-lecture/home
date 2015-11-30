@@ -20,7 +20,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] | [Click Me][gsy-repo-2] |
 | 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] |
 | 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] |
-| 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] |
+| 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] | [Click Me][lgl-repo-2]
 | 刘晓玮 | Trainee |  |  |  |  |
 | 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] | [Click Me][lyj-repo-2] | 
 | 潘晓佩 | Trainee |  |  |  |  |
@@ -108,7 +108,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [lgl-site]: about:blank
 [lgl-repo-0]: https://github.com/Dragon-L/homework
 [lgl-repo-1]: https://github.com/Dragon-L/homework-2
-[lgl-repo-2]: about:blank
+[lgl-repo-2]: https://github.com/Dragon-L/homework-3
 
 [lxw-github]: about:blank
 [lxw-site]: about:blank
