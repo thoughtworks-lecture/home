@@ -22,7 +22,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] |
 | 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] |
 | 刘晓玮 | Trainee |  |  |  |  |
-| 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] |
+| 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] | [Click Me][lyj-repo-2] | 
 | 潘晓佩 | Trainee |  |  |  |  |
 | 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] | [Click Me][sx-repo-2] |
 | 王  冰 | Trainee |  |  |  |  |
@@ -120,7 +120,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [lyj-site]: about:blank
 [lyj-repo-0]: https://github.com/JellyLu/homework-one-collections
 [lyj-repo-1]: https://github.com/JellyLu/TW
-[lyj-repo-2]: about:blank
+[lyj-repo-2]: https://github.com/JellyLu/Arena
 
 [pxp-github]: about:blank
 [pxp-site]: about:blank
