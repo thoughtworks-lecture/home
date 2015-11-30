@@ -29,7 +29,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 王  礼 | Trainee |  |  |  |  |
 | 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] |
 | 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] |
-| 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] |
+| 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | 
 | 肖  齐 | Trainee |  |  |  |  |
 | 闫琪龙 | Trainee |  |  |  |  |
 | 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] |
@@ -162,7 +162,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [wzp-site]: about:blank
 [wzp-repo-0]: about:blank
 [wzp-repo-1]: https://github.com/stayrascal/tdd-workshop-guess
-[wzp-repo-2]: about:blank
+[wzp-repo-2]: https://github.com/stayrascal/tdd-arena
 
 [xq-github]: about:blank
 [xq-site]: about:blank
