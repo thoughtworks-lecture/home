@@ -27,7 +27,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] | [Click Me][sx-repo-2] |
 | 王  冰 | Trainee |  |  |  |  |
 | 王  礼 | Trainee |  |  |  |  |
-| 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] |
+| 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] | [Click Me][wp-repo-2] |
 | 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] |
 | 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | 
 | 肖  齐 | Trainee |  |  |  |  |
@@ -150,7 +150,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [wp-site]: http://blog.jsonwang.top/
 [wp-repo-0]: about:blank
 [wp-repo-1]: https://github.com/Json-w/tdd-homeWork-guessGame
-[wp-repo-2]: about:blank
+[wp-repo-2]: https://github.com/Json-w/Arena
 
 [wy-github]: https://github.com/uazw
 [wy-site]: http://uazw.github.io/
