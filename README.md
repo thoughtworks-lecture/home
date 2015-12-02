@@ -32,7 +32,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | 
 | 肖  齐 | Trainee |  |  |  |  |
 | 闫琪龙 | Trainee |  |  |  |  |
-| 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] |
+| 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] | [Click Me][yzj-repo-2] |
 | 张兰兰 | Trainee |  |  |  |  |
 
 
@@ -180,7 +180,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [yzj-site]: http://trotyl.me/
 [yzj-repo-0]: https://github.com/trotyl/collection-homework
 [yzj-repo-1]: https://github.com/trotyl/guess-number-java
-[yzj-repo-2]: about:blank
+[yzj-repo-2]: https://github.com/trotyl/arena
 
 [zll-github]: about:blank
 [zll-site]: about:blank
