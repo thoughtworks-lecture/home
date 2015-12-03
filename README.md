@@ -31,7 +31,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] |
 | 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | 
 | 肖  齐 | Trainee |  |  |  |  |
-| 闫琪龙 | Trainee |  |  |  |  |
+| 闫琪龙 | Trainee | [Click Me][yql-github] |  |  |  | [Click Me][yql-repo-2] |
 | 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] | [Click Me][yzj-repo-2] |
 | 张兰兰 | Trainee |  |  |  |  |
 
@@ -170,11 +170,11 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [xq-repo-1]: about:blank
 [xq-repo-2]: about:blank
 
-[yql-github]: about:blank
+[yql-github]: https://github.com/benben198805
 [yql-site]: about:blank
 [yql-repo-0]: about:blank
 [yql-repo-1]: about:blank
-[yql-repo-2]: about:blank
+[yql-repo-2]: https://github.com/benben198805/thoughtworks2-tdd-oo-
 
 [yzj-github]: https://github.com/trotyl
 [yzj-site]: http://trotyl.me/
