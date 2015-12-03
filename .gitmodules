@@ -64,3 +64,24 @@
 [submodule "repositories/arena/GaoShiyi"]
 	path = repositories/arena/GaoShiyi
 	url = https://github.com/cqupt-gsy/homework
+[submodule "repositories/arena/LiaoGuolong"]
+	path = repositories/arena/LiaoGuolong
+	url = https://github.com/Dragon-L/homework-3
+[submodule "repositories/arena/LuYangjie"]
+	path = repositories/arena/LuYangjie
+	url = https://github.com/JellyLu/Arena
+[submodule "repositories/arena/SuXin"]
+	path = repositories/arena/SuXin
+	url = https://github.com/xloypaypa/TW
+[submodule "repositories/arena/WangPei"]
+	path = repositories/arena/WangPei
+	url = https://github.com/Json-w/Arena
+[submodule "repositories/arena/WuZhiping"]
+	path = repositories/arena/WuZhiping
+	url = https://github.com/stayrascal/tdd-arena
+[submodule "repositories/arena/YanQilong"]
+	path = repositories/arena/YanQilong
+	url = https://github.com/benben198805/thoughtworks2-tdd-oo-
+[submodule "repositories/arena/YuZejiang"]
+	path = repositories/arena/YuZejiang
+	url = https://github.com/trotyl/arena
