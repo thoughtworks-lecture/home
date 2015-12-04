@@ -25,8 +25,8 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] | [Click Me][lyj-repo-2] | 
 | 潘晓佩 | Trainee |  |  |  |  |
 | 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] | [Click Me][sx-repo-2] |
-| 王  冰 | Trainee | [Click Me][wl-github] |  |  |  | [Click Me][wl-repo-2] |
-| 王  礼 | Trainee |  |  |  |  |
+| 王  冰 | Trainee |  |  |  |  |  |
+| 王  礼 | Trainee | [Click Me][wl-github] |  |  |  | [Click Me][wl-repo-2] |
 | 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] | [Click Me][wp-repo-2] |
 | 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] |
 | 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | 
