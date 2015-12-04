@@ -91,3 +91,12 @@
 [submodule "repositories/arena/WangLi"]
 	path = repositories/arena/WangLi
 	url = https://github.com/wanglicq/11_28homework_FightGame
+[submodule "repositories/arena/WenYang"]
+	path = repositories/arena/WenYang
+	url = https://github.com/uazw/arena
+[submodule "repositories/arena/ZengChaowei"]
+	path = repositories/arena/ZengChaowei
+	url = https://github.com/slizeng/ArenaGame
+[submodule "repositories/arena/LiXueying"]
+	path = repositories/arena/LiXueying
+	url = https://github.com/lixueying/arena
