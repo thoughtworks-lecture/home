@@ -28,7 +28,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 王  冰 | Trainee |  |  |  |  |  |
 | 王  礼 | Trainee | [Click Me][wl-github] |  |  |  | [Click Me][wl-repo-2] |
 | 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] | [Click Me][wp-repo-2] |
-| 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] |
+| 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] | [Click Me][wy-repo-2] | 
 | 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | 
 | 肖  齐 | Trainee |  |  |  |  |
 | 闫琪龙 | Trainee | [Click Me][yql-github] |  |  |  | [Click Me][yql-repo-2] |
@@ -156,7 +156,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [wy-site]: http://uazw.github.io/
 [wy-repo-0]: about:blank
 [wy-repo-1]: https://github.com/uazw/tw-guess-game
-[wy-repo-2]: about:blank
+[wy-repo-2]: https://github.com/uazw/arena
 
 [wzp-github]: https://github.com/stayrascal
 [wzp-site]: about:blank
