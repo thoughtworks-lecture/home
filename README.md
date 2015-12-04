@@ -14,7 +14,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 刘  清 | Coach | [Click Me][lq-github] | [Click Me][lq-site] |  | [Click Me][lq-repo-1] |  |
 | 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |  |  |  |
 | 屠  标 | Coach | [Click Me][tb-github] |  |  |  | [Click Me][tb-repo-2] |
-| 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] |
+| 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] | [Click Me][zcw-repo-2] |
 | 陈之豪 | Trainee | [Click Me][czh-github] |  |  | [Click Me][czh-repo-1] | [Click Me][czh-repo-2] |
 | 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |
 | 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] | [Click Me][gsy-repo-2] |
@@ -72,7 +72,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [zcw-site]: about:blank
 [zcw-repo-0]: about:blank
 [zcw-repo-1]: https://github.com/slizeng/homework_1
-[zcw-repo-2]: about:blank
+[zcw-repo-2]: https://github.com/slizeng/ArenaGame
 
 [czh-github]: https://github.com/MMMr-chen
 [czh-site]: about:blank
