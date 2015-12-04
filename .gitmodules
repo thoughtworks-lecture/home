@@ -85,3 +85,6 @@
 [submodule "repositories/arena/YuZejiang"]
 	path = repositories/arena/YuZejiang
 	url = https://github.com/trotyl/arena
+[submodule "repositories/arena/ChenZhihao"]
+	path = repositories/arena/ChenZhihao
+	url = https://github.com/MMMr-chen/Arena
