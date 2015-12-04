@@ -88,3 +88,6 @@
 [submodule "repositories/arena/ChenZhihao"]
 	path = repositories/arena/ChenZhihao
 	url = https://github.com/MMMr-chen/Arena
+[submodule "repositories/arena/WangLi"]
+	path = repositories/arena/WangLi
+	url = https://github.com/wanglicq/11_28homework_FightGame
