@@ -14,12 +14,12 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 刘  清 | Coach | [Click Me][lq-github] | [Click Me][lq-site] |  | [Click Me][lq-repo-1] |  |
 | 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |  |  |  |
 | 屠  标 | Coach | [Click Me][tb-github] |  |  |  | [Click Me][tb-repo-2] |
-| 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] |
+| 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] | [Click Me][zcw-repo-2] |
 | 陈之豪 | Trainee | [Click Me][czh-github] |  |  | [Click Me][czh-repo-1] | [Click Me][czh-repo-2] |
 | 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |
 | 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] | [Click Me][gsy-repo-2] |
 | 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] |
-| 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] |
+| 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] | [Click Me][lxy-repo-2] 
 | 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] | [Click Me][lgl-repo-2]
 | 刘晓玮 | Trainee |  |  |  |  |
 | 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] | [Click Me][lyj-repo-2] | 
@@ -28,7 +28,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 王  冰 | Trainee |  |  |  |  |  |
 | 王  礼 | Trainee | [Click Me][wl-github] |  |  |  | [Click Me][wl-repo-2] |
 | 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] | [Click Me][wp-repo-2] |
-| 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] |
+| 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] | [Click Me][wy-repo-2] | 
 | 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | 
 | 肖  齐 | Trainee |  |  |  |  |
 | 闫琪龙 | Trainee | [Click Me][yql-github] |  |  |  | [Click Me][yql-repo-2] |
@@ -72,7 +72,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [zcw-site]: about:blank
 [zcw-repo-0]: about:blank
 [zcw-repo-1]: https://github.com/slizeng/homework_1
-[zcw-repo-2]: about:blank
+[zcw-repo-2]: https://github.com/slizeng/ArenaGame
 
 [czh-github]: https://github.com/MMMr-chen
 [czh-site]: about:blank
@@ -102,7 +102,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [lxy-site]: about:blank
 [lxy-repo-0]: https://github.com/lixueying/homework
 [lxy-repo-1]: https://github.com/lixueying/tdd-workshop-guess
-[lxy-repo-2]: about:blank
+[lxy-repo-2]: https://github.com/lixueying/arena
 
 [lgl-github]: https://github.com/Dragon-L
 [lgl-site]: about:blank
@@ -156,7 +156,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [wy-site]: http://uazw.github.io/
 [wy-repo-0]: about:blank
 [wy-repo-1]: https://github.com/uazw/tw-guess-game
-[wy-repo-2]: about:blank
+[wy-repo-2]: https://github.com/uazw/arena
 
 [wzp-github]: https://github.com/stayrascal
 [wzp-site]: about:blank
