@@ -30,7 +30,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] | [Click Me][wp-repo-2] |
 | 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] | [Click Me][wy-repo-2] | 
 | 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | 
-| 肖  齐 | Trainee |  |  |  |  |
+| 肖  齐 | Trainee | [Click Me][xq-github] | [Click Me][xq-site] |  |  | [Click Me][xq-repo-2] |
 | 闫琪龙 | Trainee | [Click Me][yql-github] |  |  |  | [Click Me][yql-repo-2] |
 | 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] | [Click Me][yzj-repo-2] |
 | 张兰兰 | Trainee |  |  |  |  |
@@ -164,11 +164,11 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [wzp-repo-1]: https://github.com/stayrascal/tdd-workshop-guess
 [wzp-repo-2]: https://github.com/stayrascal/tdd-arena
 
-[xq-github]: about:blank
-[xq-site]: about:blank
+[xq-github]: https://github.com/xiaoqi05
+[xq-site]: http://my.oschina.net/crazy261
 [xq-repo-0]: about:blank
 [xq-repo-1]: about:blank
-[xq-repo-2]: about:blank
+[xq-repo-2]: https://github.com/xiaoqi05/tw_oo_arean_homeworlk
 
 [yql-github]: https://github.com/benben198805
 [yql-site]: about:blank
