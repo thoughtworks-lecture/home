@@ -18,7 +18,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 陈之豪 | Trainee | [Click Me][czh-github] |  |  | [Click Me][czh-repo-1] | [Click Me][czh-repo-2] |
 | 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |
 | 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] | [Click Me][gsy-repo-2] |
-| 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] |
+| 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] | [Click Me][llf-repo-2] |
 | 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] | [Click Me][lxy-repo-2] 
 | 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] | [Click Me][lgl-repo-2]
 | 刘晓玮 | Trainee |  |  |  |  |
@@ -96,7 +96,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [llf-site]: about:blank
 [llf-repo-0]: about:blank
 [llf-repo-1]: https://github.com/lingHender/ThoughtWorkLearning
-[llf-repo-2]: about:blank
+[llf-repo-2]: https://github.com/lingHender/arena
 
 [lxy-github]: https://github.com/lixueying
 [lxy-site]: about:blank
