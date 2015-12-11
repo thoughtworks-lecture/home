@@ -100,3 +100,45 @@
 [submodule "repositories/arena/LiXueying"]
 	path = repositories/arena/LiXueying
 	url = https://github.com/lixueying/arena
+[submodule "repositories/posMachine/ChenZhihao"]
+	path = repositories/posMachine/ChenZhihao
+	url = https://github.com/MMMr-chen/TW
+[submodule "repositories/posMachine/GaoShiyi"]
+	path = repositories/posMachine/GaoShiyi
+	url = https://github.com/cqupt-gsy/homework
+[submodule "repositories/posMachine/LiLingfang"]
+	path = repositories/posMachine/LiLingfang
+	url = https://github.com/lingHender/PosMachine
+[submodule "repositories/posMachine/LiXueying"]
+	path = repositories/posMachine/LiXueying
+	url = https://github.com/lixueying/Pos_step_by_step
+[submodule "repositories/posMachine/LiaoGuolong"]
+	path = repositories/posMachine/LiaoGuolong
+	url = https://github.com/Dragon-L/homework-4
+[submodule "repositories/posMachine/LiuXiaowei"]
+	path = repositories/posMachine/LiuXiaowei
+	url = https://github.com/XiaoVLiu/PosMachine
+[submodule "repositories/posMachine/LuYangjie"]
+	path = repositories/posMachine/LuYangjie
+	url = https://github.com/JellyLu/PosMachine
+[submodule "repositories/posMachine/SuXin"]
+	path = repositories/posMachine/SuXin
+	url = https://github.com/xloypaypa/TW
+[submodule "repositories/posMachine/WangBing"]
+	path = repositories/posMachine/WangBing
+	url = https://github.com/idolice/pos
+[submodule "repositories/posMachine/WangLi"]
+	path = repositories/posMachine/WangLi
+	url = https://github.com/wanglicq/12_5homework_posmachine
+[submodule "repositories/posMachine/WangPei"]
+	path = repositories/posMachine/WangPei
+	url = https://github.com/Json-w/posSystem
+[submodule "repositories/posMachine/WenYang"]
+	path = repositories/posMachine/WenYang
+	url = https://github.com/uazw/pos
+[submodule "repositories/posMachine/WuZhiping"]
+	path = repositories/posMachine/WuZhiping
+	url = https://github.com/stayrascal/tdd-pos
+[submodule "repositories/posMachine/YanQilong"]
+	path = repositories/posMachine/YanQilong
+	url = https://github.com/benben198805/thoughtworks3-oo-
