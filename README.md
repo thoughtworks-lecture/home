@@ -25,7 +25,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] | [Click Me][lyj-repo-2] | [Click Me][lyj-repo-3] | 
 | 潘晓佩 | Trainee |  |  |  |  |
 | 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] | [Click Me][sx-repo-2] | [Click Me][sx-repo-3] |
-| 王  冰 | Trainee |  |  |  |  |  |
+| 王  冰 | Trainee | [Click Me][wb-github] |  |  | [Click Me][wb-repo-1] |  | [Click Me][wb-repo-3] |
 | 王  礼 | Trainee | [Click Me][wl-github] |  |  |  | [Click Me][wl-repo-2] | [Click Me][wl-repo-3] |
 | 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] | [Click Me][wp-repo-2] | [Click Me][wp-repo-3] |
 | 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] | [Click Me][wy-repo-2] |  [Click Me][wy-repo-3] | 
@@ -145,12 +145,12 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [sx-repo-2]: https://github.com/xloypaypa/TW
 [sx-repo-3]: https://github.com/xloypaypa/TW
 
-[wb-github]: about:blank
+[wb-github]: https://github.com/idolice
 [wb-site]: about:blank
 [wb-repo-0]: about:blank
-[wb-repo-1]: about:blank
+[wb-repo-1]: https://github.com/idolice/game
 [wb-repo-2]: about:blank
-[wb-repo-3]: about:blank
+[wb-repo-3]: https://github.com/idolice/pos
 
 [wl-github]: https://github.com/wanglicq
 [wl-site]: about:blank
