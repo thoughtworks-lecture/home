@@ -80,7 +80,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [czh-repo-0]: about:blank
 [czh-repo-1]: https://github.com/MMMr-chen/TW
 [czh-repo-2]: https://github.com/MMMr-chen/Arena
-[czh-repo-3]: about:blank
+[czh-repo-3]: https://github.com/MMMr-chen/TW
 
 [css-github]: https://github.com/Sasa33
 [css-site]: about:blank
@@ -108,14 +108,14 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [lxy-repo-0]: https://github.com/lixueying/homework
 [lxy-repo-1]: https://github.com/lixueying/tdd-workshop-guess
 [lxy-repo-2]: https://github.com/lixueying/arena
-[lxy-repo-3]: about:blank
+[lxy-repo-3]: https://github.com/lixueying/Pos_step_by_step
 
 [lgl-github]: https://github.com/Dragon-L
 [lgl-site]: about:blank
 [lgl-repo-0]: https://github.com/Dragon-L/homework
 [lgl-repo-1]: https://github.com/Dragon-L/homework-2
 [lgl-repo-2]: https://github.com/Dragon-L/homework-3
-[lgl-repo-3]: about:blank
+[lgl-repo-3]: https://github.com/Dragon-L/homework-4
 
 [lxw-github]: https://github.com/XiaoVLiu
 [lxw-site]: about:blank
@@ -199,7 +199,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [yzj-repo-0]: https://github.com/trotyl/collection-homework
 [yzj-repo-1]: https://github.com/trotyl/guess-number-java
 [yzj-repo-2]: https://github.com/trotyl/arena
-[yzj-repo-3]: about:blank
+[yzj-repo-3]: https://github.com/trotyl/pos-machine
 
 [zll-github]: about:blank
 [zll-site]: about:blank
