@@ -21,7 +21,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] | [Click Me][llf-repo-2] | [Click Me][llf-repo-3] |
 | 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] | [Click Me][lxy-repo-2] | [Click Me][lxy-repo-3] |
 | 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] | [Click Me][lgl-repo-2] | [Click Me][lgl-repo-3] | 
-| 刘晓玮 | Trainee |  |  |  |  |
+| 刘晓玮 | Trainee | [Click Me][lxw-github] |  |  |  | [Click Me][lxw-repo-2] | [Click Me][lxw-repo-3] |
 | 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] | [Click Me][lyj-repo-2] | [Click Me][lyj-repo-3] | 
 | 潘晓佩 | Trainee |  |  |  |  |
 | 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] | [Click Me][sx-repo-2] | [Click Me][sx-repo-3] |
