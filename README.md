@@ -16,7 +16,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 屠  标 | Coach | [Click Me][tb-github] |  |  |  | [Click Me][tb-repo-2] |
 | 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] | [Click Me][zcw-repo-2] | [Click Me][zcw-repo-3] | 
 | 陈之豪 | Trainee | [Click Me][czh-github] |  |  | [Click Me][czh-repo-1] | [Click Me][czh-repo-2] | [Click Me][czh-repo-3] |
-| 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |
+| 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |  | [Click Me][css-repo-3] |
 | 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] | [Click Me][gsy-repo-2] | [Click Me][gsy-repo-3] |
 | 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] | [Click Me][llf-repo-2] | [Click Me][llf-repo-3] |
 | 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] | [Click Me][lxy-repo-2] | [Click Me][lxy-repo-3] |
@@ -87,7 +87,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [css-repo-0]: about:blank
 [css-repo-1]: https://github.com/Sasa33/TW-guess-number-game-2
 [css-repo-2]: about:blank
-[css-repo-3]: about:blank
+[css-repo-3]: https://github.com/Sasa33/POS_Machine
 
 [gsy-github]: https://github.com/cqupt-gsy
 [gsy-site]: http://cqupt-gsy.github.io/
