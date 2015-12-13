@@ -23,7 +23,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] | [Click Me][lgl-repo-2] | [Click Me][lgl-repo-3] | 
 | 刘晓玮 | Trainee | [Click Me][lxw-github] |  |  |  | [Click Me][lxw-repo-2] | [Click Me][lxw-repo-3] |
 | 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] | [Click Me][lyj-repo-2] | [Click Me][lyj-repo-3] | 
-| 潘晓佩 | Trainee |  |  |  |  |
+| 潘晓佩 | Trainee | [Click Me][pxp-github] |  |  |  |  | [Click Me][pxp-repo-3] 
 | 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] | [Click Me][sx-repo-2] | [Click Me][sx-repo-3] |
 | 王  冰 | Trainee | [Click Me][wb-github] |  |  | [Click Me][wb-repo-1] |  | [Click Me][wb-repo-3] |
 | 王  礼 | Trainee | [Click Me][wl-github] |  |  |  | [Click Me][wl-repo-2] | [Click Me][wl-repo-3] |
@@ -131,12 +131,12 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [lyj-repo-2]: https://github.com/JellyLu/Arena
 [lyj-repo-3]: https://github.com/JellyLu/PosMachine
 
-[pxp-github]: about:blank
+[pxp-github]: https://github.com/sara-pan
 [pxp-site]: about:blank
 [pxp-repo-0]: about:blank
 [pxp-repo-1]: about:blank
 [pxp-repo-2]: about:blank
-[pxp-repo-3]: about:blank
+[pxp-repo-3]: https://github.com/sara-pan/PosMachine
 
 [sx-github]: https://github.com/xloypaypa
 [sx-site]: about:blank
