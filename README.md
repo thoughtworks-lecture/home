@@ -4,7 +4,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
 ## Entries
 
-| Name | Role | Github | Site | Prepare | TDD First Step | TDD + OO | Design Pattern | Web One |
+| Name | Role | Github | Site | Prepare | TDD1stStep | TDD+OO | DesignP5n | Web1st |
 |:----:|:----:|:------:|:----:|:-------:|:--------------:|:--------:|:--------------:|:-------:|
 | 鄢  倩 | Owner | [Here][yq-github] | [Here][yq-site] | [Here][yq-repo-0] |  |  |
 | 陈文杰 | Coach | [Here][cwj-github] | [Here][cwj-site] |  |  | [Here][cwj-repo-2] |
