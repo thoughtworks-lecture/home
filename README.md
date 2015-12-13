@@ -14,6 +14,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 刘  清 | Coach | [Click Me][lq-github] | [Click Me][lq-site] |  | [Click Me][lq-repo-1] |  |
 | 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |  |  |  |
 | 屠  标 | Coach | [Click Me][tb-github] |  |  |  | [Click Me][tb-repo-2] |
+| 胡  凯 | Coach | [Click Me][hk-github] |  |  |  |  | [Click Me][hk-repo-3] |
 | 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] | [Click Me][zcw-repo-2] |  | 
 | 陈之豪 | Trainee | [Click Me][czh-github] |  |  | [Click Me][czh-repo-1] | [Click Me][czh-repo-2] | [Click Me][czh-repo-3] |
 | 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |  | [Click Me][css-repo-3] |
@@ -66,6 +67,10 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [tb-github]: https://github.com/tuberrabbit
 [tb-site]: about:blank
 [tb-repo-2]: https://github.com/tuberrabbit/boxing-games
+
+[hk-github]: https://github.com/WrongKey
+[hk-site]: about:blank
+[hk-repo-3]: https://github.com/WrongKey/Pos_step_by_step
 
 
 [zcw-github]: https://github.com/slizeng
