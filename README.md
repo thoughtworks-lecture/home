@@ -28,7 +28,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 王  礼 | Trainee | [Click Me][wl-github] |  |  |  | [Click Me][wl-repo-2] | [Click Me][wl-repo-3] |
 | 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] | [Click Me][wp-repo-2] | [Click Me][wp-repo-3] |
 | 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] | [Click Me][wy-repo-2] |  [Click Me][wy-repo-3] | 
-| 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] |  [Click Me][wzp-repo-3] | 
+| 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | [Click Me][wzp-repo-3] | [Click Me][wzp-repo-4] |
 | 肖  齐 | Trainee | [Click Me][xq-github] | [Click Me][xq-site] |  |  | [Click Me][xq-repo-2] | [Click Me][xq-repo-3] |
 | 闫琪龙 | Trainee | [Click Me][yql-github] |  |  |  | [Click Me][yql-repo-2] | [Click Me][yql-repo-3] |
 | 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] | [Click Me][yzj-repo-2] | [Click Me][yzj-repo-3] |
@@ -183,6 +183,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [wzp-repo-1]: https://github.com/stayrascal/tdd-workshop-guess
 [wzp-repo-2]: https://github.com/stayrascal/tdd-arena
 [wzp-repo-3]: https://github.com/stayrascal/tdd-pos
+[wzp-repo-4]: https://github.com/stayrascal/bookshelf
 
 [xq-github]: https://github.com/xiaoqi05
 [xq-site]: http://my.oschina.net/crazy261
