@@ -6,33 +6,33 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
 | Name | Role | Github | Site | Prepare | TDD First Step | TDD + OO | Design Pattern | Web One |
 |:----:|:----:|:------:|:----:|:-------:|:--------------:|:--------:|:--------------:|:-------:|
-| 鄢  倩 | Owner | [Click Me][yq-github] | [Click Me][yq-site] | [Click Me][yq-repo-0] |  |  |
-| 陈文杰 | Coach | [Click Me][cwj-github] | [Click Me][cwj-site] |  |  | [Click Me][cwj-repo-2] |
-| 林从羽 | Coach | [Click Me][lcy-github] |  |  |  |  |
-| 刘  清 | Coach | [Click Me][lq-github] | [Click Me][lq-site] |  | [Click Me][lq-repo-1] |  |
-| 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |  |  |  |  | [Click Me][lj-repo-4] |
-| 屠  标 | Coach | [Click Me][tb-github] |  |  |  | [Click Me][tb-repo-2] |
-| 胡  凯 | Coach | [Click Me][hk-github] |  |  |  |  | [Click Me][hk-repo-3] |
-| 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] | [Click Me][zcw-repo-2] |  | 
-| 陈之豪 | Trainee | [Click Me][czh-github] |  |  | [Click Me][czh-repo-1] | [Click Me][czh-repo-2] | [Click Me][czh-repo-3] |
-| 成萨萨 | Trainee | [Click Me][css-github] |  |  | [Click Me][css-repo-1] |  | [Click Me][css-repo-3] |
-| 高诗意 | Trainee | [Click Me][gsy-github] | [Click Me][gsy-site] | [Click Me][gsy-repo-0] | [Click Me][gsy-repo-1] | [Click Me][gsy-repo-2] | [Click Me][gsy-repo-3] |
-| 李灵芳 | Trainee | [Click Me][llf-github] |  |  | [Click Me][llf-repo-1] | [Click Me][llf-repo-2] | [Click Me][llf-repo-3] |
-| 李雪莹 | Trainee | [Click Me][lxy-github] |  | [Click Me][lxy-repo-0] | [Click Me][lxy-repo-1] | [Click Me][lxy-repo-2] | [Click Me][lxy-repo-3] |
-| 廖国龙 | Trainee | [Click Me][lgl-github] |  | [Click Me][lgl-repo-0] | [Click Me][lgl-repo-1] | [Click Me][lgl-repo-2] | [Click Me][lgl-repo-3] | 
-| 刘晓玮 | Trainee | [Click Me][lxw-github] |  |  |  | [Click Me][lxw-repo-2] | [Click Me][lxw-repo-3] |
-| 陆杨洁 | Trainee | [Click Me][lyj-github] |  | [Click Me][lyj-repo-0] | [Click Me][lyj-repo-1] | [Click Me][lyj-repo-2] | [Click Me][lyj-repo-3] | 
-| 潘晓佩 | Trainee | [Click Me][pxp-github] |  |  |  |  | [Click Me][pxp-repo-3] 
-| 苏  鑫 | Trainee | [Click Me][sx-github] |  |  | [Click Me][sx-repo-1] | [Click Me][sx-repo-2] | [Click Me][sx-repo-3] |
-| 王  冰 | Trainee | [Click Me][wb-github] |  |  | [Click Me][wb-repo-1] |  | [Click Me][wb-repo-3] |
-| 王  礼 | Trainee | [Click Me][wl-github] |  |  |  | [Click Me][wl-repo-2] | [Click Me][wl-repo-3] |
-| 王  培 | Trainee | [Click Me][wp-github] | [Click Me][wp-site] |  | [Click Me][wp-repo-1] | [Click Me][wp-repo-2] | [Click Me][wp-repo-3] |
-| 文  杨 | Trainee | [Click Me][wy-github] | [Click Me][wy-site] |  | [Click Me][wy-repo-1] | [Click Me][wy-repo-2] |  [Click Me][wy-repo-3] | 
-| 吴志平 | Trainee | [Click Me][wzp-github] |  |  | [Click Me][wzp-repo-1] | [Click Me][wzp-repo-2] | [Click Me][wzp-repo-3] | [Click Me][wzp-repo-4] |
-| 肖  齐 | Trainee | [Click Me][xq-github] | [Click Me][xq-site] |  |  | [Click Me][xq-repo-2] | [Click Me][xq-repo-3] |
-| 闫琪龙 | Trainee | [Click Me][yql-github] |  |  |  | [Click Me][yql-repo-2] | [Click Me][yql-repo-3] |
-| 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] | [Click Me][yzj-repo-2] | [Click Me][yzj-repo-3] |
-| 张兰兰 | Trainee | [Click Me][zll-github] |  |  |  |  | [Click Me][zll-repo-3] |
+| 鄢  倩 | Owner | [Here][yq-github] | [Here][yq-site] | [Here][yq-repo-0] |  |  |
+| 陈文杰 | Coach | [Here][cwj-github] | [Here][cwj-site] |  |  | [Here][cwj-repo-2] |
+| 林从羽 | Coach | [Here][lcy-github] |  |  |  |  |
+| 刘  清 | Coach | [Here][lq-github] | [Here][lq-site] |  | [Here][lq-repo-1] |  |
+| 吕  靖 | Coach | [Here][lj-github] | [Here][lj-site] |  |  |  |  | [Here][lj-repo-4] |
+| 屠  标 | Coach | [Here][tb-github] |  |  |  | [Here][tb-repo-2] |
+| 胡  凯 | Coach | [Here][hk-github] |  |  |  |  | [Here][hk-repo-3] |
+| 曾超伟 | Trainee | [Here][zcw-github] |  |  | [Here][zcw-repo-1] | [Here][zcw-repo-2] |  | 
+| 陈之豪 | Trainee | [Here][czh-github] |  |  | [Here][czh-repo-1] | [Here][czh-repo-2] | [Here][czh-repo-3] |
+| 成萨萨 | Trainee | [Here][css-github] |  |  | [Here][css-repo-1] |  | [Here][css-repo-3] |
+| 高诗意 | Trainee | [Here][gsy-github] | [Here][gsy-site] | [Here][gsy-repo-0] | [Here][gsy-repo-1] | [Here][gsy-repo-2] | [Here][gsy-repo-3] |
+| 李灵芳 | Trainee | [Here][llf-github] |  |  | [Here][llf-repo-1] | [Here][llf-repo-2] | [Here][llf-repo-3] |
+| 李雪莹 | Trainee | [Here][lxy-github] |  | [Here][lxy-repo-0] | [Here][lxy-repo-1] | [Here][lxy-repo-2] | [Here][lxy-repo-3] |
+| 廖国龙 | Trainee | [Here][lgl-github] |  | [Here][lgl-repo-0] | [Here][lgl-repo-1] | [Here][lgl-repo-2] | [Here][lgl-repo-3] | 
+| 刘晓玮 | Trainee | [Here][lxw-github] |  |  |  | [Here][lxw-repo-2] | [Here][lxw-repo-3] |
+| 陆杨洁 | Trainee | [Here][lyj-github] |  | [Here][lyj-repo-0] | [Here][lyj-repo-1] | [Here][lyj-repo-2] | [Here][lyj-repo-3] | 
+| 潘晓佩 | Trainee | [Here][pxp-github] |  |  |  |  | [Here][pxp-repo-3] 
+| 苏  鑫 | Trainee | [Here][sx-github] |  |  | [Here][sx-repo-1] | [Here][sx-repo-2] | [Here][sx-repo-3] |
+| 王  冰 | Trainee | [Here][wb-github] |  |  | [Here][wb-repo-1] |  | [Here][wb-repo-3] |
+| 王  礼 | Trainee | [Here][wl-github] |  |  |  | [Here][wl-repo-2] | [Here][wl-repo-3] |
+| 王  培 | Trainee | [Here][wp-github] | [Here][wp-site] |  | [Here][wp-repo-1] | [Here][wp-repo-2] | [Here][wp-repo-3] |
+| 文  杨 | Trainee | [Here][wy-github] | [Here][wy-site] |  | [Here][wy-repo-1] | [Here][wy-repo-2] |  [Here][wy-repo-3] | 
+| 吴志平 | Trainee | [Here][wzp-github] |  |  | [Here][wzp-repo-1] | [Here][wzp-repo-2] | [Here][wzp-repo-3] | [Here][wzp-repo-4] |
+| 肖  齐 | Trainee | [Here][xq-github] | [Here][xq-site] |  |  | [Here][xq-repo-2] | [Here][xq-repo-3] |
+| 闫琪龙 | Trainee | [Here][yql-github] |  |  |  | [Here][yql-repo-2] | [Here][yql-repo-3] |
+| 余泽江 | Trainee | [Here][yzj-github] | [Here][yzj-site] | [Here][yzj-repo-0] | [Here][yzj-repo-1] | [Here][yzj-repo-2] | [Here][yzj-repo-3] |
+| 张兰兰 | Trainee | [Here][zll-github] |  |  |  |  | [Here][zll-repo-3] |
 
 
 
