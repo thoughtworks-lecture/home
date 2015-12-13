@@ -33,7 +33,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 肖  齐 | Trainee | [Click Me][xq-github] | [Click Me][xq-site] |  |  | [Click Me][xq-repo-2] | [Click Me][xq-repo-3] |
 | 闫琪龙 | Trainee | [Click Me][yql-github] |  |  |  | [Click Me][yql-repo-2] | [Click Me][yql-repo-3] |
 | 余泽江 | Trainee | [Click Me][yzj-github] | [Click Me][yzj-site] | [Click Me][yzj-repo-0] | [Click Me][yzj-repo-1] | [Click Me][yzj-repo-2] | [Click Me][yzj-repo-3] |
-| 张兰兰 | Trainee |  |  |  |  |
+| 张兰兰 | Trainee | [Click Me][zll-github] |  |  |  |  | [Click Me][zll-repo-3] |
 
 
 
@@ -201,9 +201,9 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [yzj-repo-2]: https://github.com/trotyl/arena
 [yzj-repo-3]: https://github.com/trotyl/pos-machine
 
-[zll-github]: about:blank
+[zll-github]: https://github.com/lanlzhang
 [zll-site]: about:blank
 [zll-repo-0]: about:blank
 [zll-repo-1]: about:blank
 [zll-repo-2]: about:blank
-[zll-repo-3]: about:blank
+[zll-repo-3]: https://github.com/lanlzhang/Pos_System
