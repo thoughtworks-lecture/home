@@ -4,15 +4,13 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
 ## Entries
 
-| Name | Role | Github | Site | Prepare | TDD First Step | TDD + OO | Pos Machine |
-|:----:|:----:|:------:|:----:|:-------:|:--------------:|:--------:|:-----------:|
+| Name | Role | Github | Site | Prepare | TDD First Step | TDD + OO | Design Pattern | Web One |
+|:----:|:----:|:------:|:----:|:-------:|:--------------:|:--------:|:--------------:|:-------:|
 | 鄢  倩 | Owner | [Click Me][yq-github] | [Click Me][yq-site] | [Click Me][yq-repo-0] |  |  |
 | 陈文杰 | Coach | [Click Me][cwj-github] | [Click Me][cwj-site] |  |  | [Click Me][cwj-repo-2] |
-| 黄  艳 | Coach |  |  |  |  |
 | 林从羽 | Coach | [Click Me][lcy-github] |  |  |  |  |
-| 林  帆 | Coach |  |  |  |  |
 | 刘  清 | Coach | [Click Me][lq-github] | [Click Me][lq-site] |  | [Click Me][lq-repo-1] |  |
-| 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |  |  |  |
+| 吕  靖 | Coach | [Click Me][lj-github] | [Click Me][lj-site] |  |  |  |  | [Click Me][lj-repo-4] |
 | 屠  标 | Coach | [Click Me][tb-github] |  |  |  | [Click Me][tb-repo-2] |
 | 胡  凯 | Coach | [Click Me][hk-github] |  |  |  |  | [Click Me][hk-repo-3] |
 | 曾超伟 | Trainee | [Click Me][zcw-github] |  |  | [Click Me][zcw-repo-1] | [Click Me][zcw-repo-2] |  | 
@@ -63,6 +61,7 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 
 [lj-github]: https://github.com/JimmyLv
 [lj-site]: http://blog.jimmylv.info/
+[lj-repo-4]: https://github.com/JimmyLv/thwo-bookshelf
 
 [tb-github]: https://github.com/tuberrabbit
 [tb-site]: about:blank
