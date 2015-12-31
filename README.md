@@ -11,7 +11,8 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 | 林从羽 | Coach | [Here][lcy-github] |  |  |  |  |
 | 刘  清 | Coach | [Here][lq-github] | [Here][lq-site] |  | [Here][lq-repo-1] |  |
 | 吕  靖 | Coach | [Here][lj-github] | [Here][lj-site] |  |  |  |  | [Here][lj-repo-4] |
-| 屠  标 | Coach | [Here][tb-github] |  |  |  | [Here][tb-repo-2] |
+| 屠  标 | Coach | [Here][tb-github] |  |  |  | [Here][tb-repo-2] |  | [Here][tb-repo-4] |
+| 林水强 | Coach | [Here][lsq-github] |  |  |  |  |  | [Here][lsq-repo-4] |
 | 胡  凯 | Coach | [Here][hk-github] |  |  |  |  | [Here][hk-repo-3] |
 | 曾超伟 | Trainee | [Here][zcw-github] |  |  | [Here][zcw-repo-1] | [Here][zcw-repo-2] |  | 
 | 陈之豪 | Trainee | [Here][czh-github] |  |  | [Here][czh-repo-1] | [Here][czh-repo-2] | [Here][czh-repo-3] |
@@ -66,6 +67,11 @@ The entry of people and repositories in ThoughtWorks Lecture for convenience.
 [tb-github]: https://github.com/tuberrabbit
 [tb-site]: about:blank
 [tb-repo-2]: https://github.com/tuberrabbit/boxing-games
+[tb-repo-4]: https://github.com/tuberrabbit/thwo-bookshelf
+
+[lsq-github]: https://github.com/Waterstrong
+[lsq-site]: about:blank
+[lsq-repo-4]: https://github.com/Waterstrong/thwo-bookshelf
 
 [hk-github]: https://github.com/WrongKey
 [hk-site]: about:blank
